@@ -1,5 +1,6 @@
-![I am a Full Stack Developer ]([https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png](https://media.licdn.com/dms/image/D5616AQEP6EtXks9hcQ/profile-displaybackgroundimage-shrink_350_1400/0/1671511887025?e=1677110400&v=beta&t=l5YksZe7XrZ9bX7siKdT56soFSY-V1r0-cuYT-DVZF4))
-
+### Hi there 👋, I am Sreemaye Chakrabortty
+#### Full Stack Developer | Frontend Developer
+![Full Stack Developer | Frontend Developer](https://media.licdn.com/dms/image/D5616AQEP6EtXks9hcQ/profile-displaybackgroundimage-shrink_350_1400/0/1671511887025?e=1677110400&v=beta&t=l5YksZe7XrZ9bX7siKdT56soFSY-V1r0-cuYT-DVZF4)
 ## :mailbox: Reach me out
 
 <br />
