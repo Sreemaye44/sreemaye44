@@ -5,7 +5,7 @@
 
 <br />
 
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sreemaye44/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sreemaye.chakrabortty/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Portfolio.png"> </p>](https://twitter.com/_mir_hussain_)
+[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sreemaye44/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sreemaye.chakrabortty/)
 
 <br />
 
@@ -15,9 +15,9 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 🔭 I’m working - with React, MongoDB, Node JS 
+### 🌱 I’m exploring - Next JS, Redux, TypeScript. 
+### 👯 I’m improving - Problem solving skills. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
