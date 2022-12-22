@@ -14,9 +14,7 @@
 ### 🔭 I’m working - with React, MongoDB, Node JS 
 ### 🌱 I’m exploring - Next JS, Redux, TypeScript. 
 ### 👯 I’m improving - Problem solving skills. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
-
+### 🤔 I’m trying - To develop myself in the era of programming. 
 
 <br />
 
