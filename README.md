@@ -11,8 +11,8 @@
 
 
 
-### 🔭 I’m working - with React, MongoDB, Node JS 
-### 🌱 I’m exploring - Next JS, Redux, TypeScript. 
+### 🔭 I’m working - with React, Next JS, TypeScript, Redux
+### 🌱 I’m exploring - Next JS, MongoDB,  Node JS  . 
 ### 👯 I’m improving - Problem solving skills. 
 ### 🤔 I’m trying - To develop myself in the era of programming. 
 
